@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+ 
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">KERALA</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,48 +17,47 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="tvvm.html">TVM</a>
+                <a class="nav-link active" aria-current="page" href="tvvm.php">TVM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kollam.html">KOLLAM</a>
+                <a class="nav-link active" aria-current="page" href="kollam.php">KOLLAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="alapza.html">ALAPPUZA</a>
+                <a class="nav-link active" aria-current="page" href="alapza.php">ALAPPUZA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ptm.html">PATHANAMTHITTA</a>
+                <a class="nav-link active" aria-current="page" href="ptm.php">PATHANAMTHITTA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kottayam.html">KOTTAYAM</a>
+                <a class="nav-link active" aria-current="page" href="kottayam.php">KOTTAYAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="idukki.html">IDUKKI</a>
+                <a class="nav-link active" aria-current="page" href="idukki.php">IDUKKI</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ekm.html">EKM</a>
+                <a class="nav-link active" aria-current="page" href="ekm.php">EKM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="trissur.html">TRISSUR</a>
+                <a class="nav-link active" aria-current="page" href="trissur.php">TRISSUR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="plkd.html">PALAKkAD</a>
+                <a class="nav-link active" aria-current="page" href="plkd.php">PALAKkAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kozkd.html">KOZIKODE</a>
+                <a class="nav-link active" aria-current="page" href="kozkd.php">KOZIKODE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="malapurm.html">MALAPPURAM</a>
+                <a class="nav-link active" aria-current="page" href="malapurm.php">MALAPPURAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="wayanad.html">WAYANAD</a>
+                <a class="nav-link active" aria-current="page" href="wayanad.php">WAYANAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kannor.html">KANORR</a>
+                <a class="nav-link active" aria-current="page" href="kannor.php">KANNOR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kasargod.html">KASARAGOD</a>
-              </li>
-              
+                <a class="nav-link active" aria-current="page" href="kasargod.php">KASARAGOD</a>
+              </li>        
 
             
             </ul>
@@ -71,31 +71,31 @@
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><h1><i>PALAKKAD</i></h1></div>
+            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><h1><i>TRISSUR</i></h1></div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
         </div>
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
               <div class="card" style="width: 18rem;">
-                <img src="imagekollam\8082687818_07fedca0b1_b_20170519134401.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                <img src="imagekollam\5044.jpg" class="card-img-top" alt="..." height="200" weight="100">
                 <div class="card-body">
-                  <p class="card-text">Blooming with in rare varieties of medicinal plants, orchids and fauna, the Parambikkulam Wildlife Sanctuary is hailed to be one of the best wildlife sanctuaries in South India.</p>
+                  <p class="card-text">With a collection of beautiful Mural paintings, some of which are more than 400 years old, this gigantic 1000 year old temple and historical structure is famous for the Nataraja Mural near the main gate.</p>
                 </div>
               </div>
                 </div>
                 <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                   <div class="card" style="width: 18rem;">
-                    <img src="imagekollam\SilentValley_20190726115715.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                    <img src="imagekollam\Shakthan_Thampuran_Palace_20170524152802.jpg" class="card-img-top" alt="..." height="200" weight="100">
                     <div class="card-body">
-                      <p class="card-text">The Silent Valley National Park, with its lush green forests and beautiful views of the rich flora, is a popular destination for nature and wildlife lovers in Kerala. With its long, detailed history and the unique status of a Rain Forest, this national park is truly a sight to visit. The well-planned Safari and the beautiful stop-overs around the park only make a trip to this part of Kerala more worthwhile..</p>
+                      <p class="card-text">Preserved by the Archeological Department now, the Vadakkekara Palace was reconstructed in Kerala-Dutch style in the year 1795 by Sri. Ramavarma Thampuran of the erstwhile Princely State of Cochin..</p>
                     </div>
                   </div>
                     </div>
                     <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                       <div class="card" style="width: 18rem;">
-                        <img src="imagekollam\5164789720_9a534fb905_b_20170519132855.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                        <img src="imagekollam\at_20190109034758_20190109034951.jpg" class="card-img-top" alt="..." height="200" weight="100">
                         <div class="card-body">
-                          <p class="card-text">The Palakkad Fort in Kerala is a beautiful historical monument that has gently integrated its high walls with its surrounding green gardens. One of the most well-preserved forts in the state of Kerala, the Palakkad fort was built in the 1766 AD by Hyder Ali and is now a protected monument under the Archaeological Survey of India..</p>
+                          <p class="card-text">Located 60 km from Thrissur city, Athirapally Falls is a haven for flora and fauna alike. It is a popular picnic spot and the scenic beauty of the waterfall offers spectacular visuals for visitors..</p>
                         </div>
                       </div>
                         </div>

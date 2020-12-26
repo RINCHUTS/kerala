@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">KERALA</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,48 +16,49 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="tvvm.html">TVM</a>
+                <a class="nav-link active" aria-current="page" href="tvvm.php">TVM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kollam.html">KOLLAM</a>
+                <a class="nav-link active" aria-current="page" href="kollam.php">KOLLAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="alapza.html">ALAPPUZA</a>
+                <a class="nav-link active" aria-current="page" href="alapza.php">ALAPPUZA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ptm.html">PATHANAMTHITTA</a>
+                <a class="nav-link active" aria-current="page" href="ptm.php">PATHANAMTHITTA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kottayam.html">KOTTAYAM</a>
+                <a class="nav-link active" aria-current="page" href="kottayam.php">KOTTAYAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="idukki.html">IDUKKI</a>
+                <a class="nav-link active" aria-current="page" href="idukki.php">IDUKKI</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ekm.html">EKM</a>
+                <a class="nav-link active" aria-current="page" href="ekm.php">EKM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="trissur.html">TRISSUR</a>
+                <a class="nav-link active" aria-current="page" href="trissur.php">TRISSUR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="plkd.html">PALAKkAD</a>
+                <a class="nav-link active" aria-current="page" href="plkd.php">PALAKkAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kozkd.html">KOZIKODE</a>
+                <a class="nav-link active" aria-current="page" href="kozkd.php">KOZIKODE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="malapurm.html">MALAPPURAM</a>
+                <a class="nav-link active" aria-current="page" href="malapurm.php">MALAPPURAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="wayanad.html">WAYANAD</a>
+                <a class="nav-link active" aria-current="page" href="wayanad.php">WAYANAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kannor.html">KANORR</a>
+                <a class="nav-link active" aria-current="page" href="kannor.php">KANNOR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kasargod.html">KASARAGOD</a>
+                <a class="nav-link active" aria-current="page" href="kasargod.php">KASARAGOD</a>
               </li>
-              
+               
+             
 
             
             </ul>
@@ -71,31 +72,31 @@
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><h1><i>TRISSUR</i></h1></div>
+            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><h1><i></i>ALAPPUZHA</h1></div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
         </div>
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
               <div class="card" style="width: 18rem;">
-                <img src="imagekollam\5044.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                <img src="imagekollam\Alleppey-houseboats-Kerala_20180321162358.jpg" class="card-img-top" alt="..." height="200" weight="100">
                 <div class="card-body">
-                  <p class="card-text">With a collection of beautiful Mural paintings, some of which are more than 400 years old, this gigantic 1000 year old temple and historical structure is famous for the Nataraja Mural near the main gate.</p>
+                  <p class="card-text">Popularly known as the Venice of the east, Alleppey or Allapuzha is famous for its serene backwaters and their exceptionally scenic setting. Cruising on houseboats in Alleppey is the latest and probably the best addition to the list of ways you can enjoy the mesmerizing natural beauty of this quaint little town. </p>
                 </div>
               </div>
                 </div>
                 <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                   <div class="card" style="width: 18rem;">
-                    <img src="imagekollam\Shakthan_Thampuran_Palace_20170524152802.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                    <img src="imagekollam\ALAPZA.png" class="card-img-top" alt="..." height="200" weight="100">
                     <div class="card-body">
-                      <p class="card-text">Preserved by the Archeological Department now, the Vadakkekara Palace was reconstructed in Kerala-Dutch style in the year 1795 by Sri. Ramavarma Thampuran of the erstwhile Princely State of Cochin..</p>
+                      <p class="card-text">Alappuzha is referred to as the Venice of the East which has always enjoyed an important place in the maritime history of Kerala. Presently it is famous for its boat races, backwater holidays, beaches, marine products and coir industry. Alappuzha beach is a popular picnic spot. The pier, which extends into the sea here, is over 137 years old. Entertainment facilities at the Vijaya Beach Park add to the attraction of the beach. There is also an old lighthouse nearby which plays a fascinating sight to the visitors from far and wide..</p>
                     </div>
                   </div>
                     </div>
                     <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                       <div class="card" style="width: 18rem;">
-                        <img src="imagekollam\at_20190109034758_20190109034951.jpg" class="card-img-top" alt="..." height="200" weight="100">
+                        <img src="imagekollam\attr_2427_20190315131619.jpg" class="card-img-top" alt="..." height="200" weight="100">
                         <div class="card-body">
-                          <p class="card-text">Located 60 km from Thrissur city, Athirapally Falls is a haven for flora and fauna alike. It is a popular picnic spot and the scenic beauty of the waterfall offers spectacular visuals for visitors..</p>
+                          <p class="card-text">Formed by the amalgamation of multiple of various waters sources, backwaters give you the postcard-perfect view with coconut trees lined all along and houseboats in the middle..</p>
                         </div>
                       </div>
                         </div>

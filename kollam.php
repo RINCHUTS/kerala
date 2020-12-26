@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">KERALA</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,46 +16,46 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="tvvm.html">TVM</a>
+                <a class="nav-link active" aria-current="page" href="tvvm.php">TVM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kollam.html">KOLLAM</a>
+                <a class="nav-link active" aria-current="page" href="kollam.php">KOLLAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="alapza.html">ALAPPUZA</a>
+                <a class="nav-link active" aria-current="page" href="alapza.php">ALAPPUZA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ptm.html">PATHANAMTHITTA</a>
+                <a class="nav-link active" aria-current="page" href="ptm.php">PATHANAMTHITTA</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kottayam.html">KOTTAYAM</a>
+                <a class="nav-link active" aria-current="page" href="kottayam.php">KOTTAYAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="idukki.html">IDUKKI</a>
+                <a class="nav-link active" aria-current="page" href="idukki.php">IDUKKI</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ekm.html">EKM</a>
+                <a class="nav-link active" aria-current="page" href="ekm.php">EKM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="trissur.html">TRISSUR</a>
+                <a class="nav-link active" aria-current="page" href="trissur.php">TRISSUR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="plkd.html">PALAKkAD</a>
+                <a class="nav-link active" aria-current="page" href="plkd.php">PALAKkAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kozkd.html">KOZIKODE</a>
+                <a class="nav-link active" aria-current="page" href="kozkd.php">KOZIKODE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="malapurm.html">MALAPPURAM</a>
+                <a class="nav-link active" aria-current="page" href="malapurm.php">MALAPPURAM</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="wayanad.html">WAYANAD</a>
+                <a class="nav-link active" aria-current="page" href="wayanad.php">WAYANAD</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kannor.html">KANORR</a>
+                <a class="nav-link active" aria-current="page" href="kannor.php">KANNOR</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="kasargod.html">KASARAGOD</a>
+                <a class="nav-link active" aria-current="page" href="kasargod.php">KASARAGOD</a>
               </li>
               
 
